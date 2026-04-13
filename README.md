@@ -30,9 +30,9 @@ The goal is to learn a policy that **maximizes forward movement** by adjusting t
 ---
 
 ## 🏗️ Project Structure
-├── CrawlerSimulator.py # GUI + simulation (provided framework)
-├── RLearning.py # RL algorithms (implemented)
-├── README.md
+- ├── CrawlerSimulator.py # GUI + simulation (provided framework) 
+- ├── RLearning.py # RL algorithms (implemented)
+- ├── README.md
 
 
 ---
@@ -105,7 +105,7 @@ Key parameters:
 - Q-values converge to optimal actions
 - State-value visualization highlights high-reward states
 
-*(Add screenshots or GIFs here for better impact)*
+*(i gotta add a ss here)*
 
 ---
 
